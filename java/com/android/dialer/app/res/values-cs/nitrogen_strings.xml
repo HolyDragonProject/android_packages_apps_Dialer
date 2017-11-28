@@ -17,4 +17,7 @@
     <!-- Dialer postcall -->
     <string name="enable_post_call_title">Oznámení po hovoru</string>
     <string name="enable_post_call_summary">Povolit oznámení v dolní části obrazovky po hovoru</string>
+
+    <string name="smart_mute_title">Vypnutí zvonění</string>
+    <string name="smart_mute_summary">Vypnout vyzvánění příchozího hovoru překlopením telefonu</string>
 </resources>
